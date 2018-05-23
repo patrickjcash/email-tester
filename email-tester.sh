@@ -7,7 +7,8 @@
 #   mx server and populate below
 # Run from terminal and pipe output to file
 #
-
+# Note: USE CAREFULLY. May get your IP banned.
+#
 
 cat emails.txt | while read i; do
 	echo $i
